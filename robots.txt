@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chetebaiqu.brianfromnewyork.com/sitemap.xml
